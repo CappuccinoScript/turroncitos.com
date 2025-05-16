@@ -1,0 +1,92 @@
+.borderNone{
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.borderW1{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.borderR-TR2{
+    border-top-right-radius: 2px;
+}
+.borderR-TR4{
+    border-top-right-radius: 4px;
+}
+.borderR-TR8{
+    border-top-right-radius: 8px;
+}
+.borderR-TR16{
+    border-top-right-radius: 16px;
+}
+.borderR-TR24{
+    border-top-right-radius: 24px;
+}
+.borderR-TR32{
+    border-top-right-radius: 32px;
+}
+
+.borderR-TL2{
+    border-top-left-radius: 2px;
+}
+.borderR-TL4{
+    border-top-left-radius: 4px;
+}
+.borderR-TL8{
+    border-top-left-radius: 8px;
+}
+.borderR-TL16{
+    border-top-left-radius: 16px;
+}
+.borderR-TL24{
+    border-top-left-radius: 24px;
+}
+.borderR-TL32{
+    border-top-left-radius: 32px;
+}
+
+.borderR-BR2{
+    border-bottom-right-radius: 2px;
+}
+.borderR-BR4{
+    border-bottom-right-radius: 4px;
+}
+.borderR-BR8{
+    border-bottom-right-radius: 8px;
+}
+.borderR-BR16{
+    border-bottom-right-radius: 16px;
+}
+.borderR-BR24{
+    border-bottom-right-radius: 24px;
+}
+.borderR-BR32{
+    border-bottom-right-radius: 32px;
+}
+
+.borderR-BL2{
+    border-bottom-left-radius: 2px;
+}
+.borderR-BL4{
+    border-bottom-left-radius: 4px;
+}
+.borderR-BL8{
+    border-bottom-left-radius: 8px;
+}
+.borderR-BL16{
+    border-bottom-left-radius: 16px;
+}
+.borderR-BL24{
+    border-bottom-left-radius: 24px;
+}
+.borderR-BL32{
+    border-bottom-left-radius: 32px;
+}
+
+.buttonRed:hover{
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.buttonWhite:hover{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}

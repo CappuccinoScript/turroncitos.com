@@ -1,0 +1,56 @@
+.TXTsize10{
+    font-size: 10px;
+}
+.TXTsize20{
+    font-size: 20px;
+}
+.TXTsize25{
+    font-size: 25px;
+}
+.TXTsize30{
+    font-size: 30px;
+}
+.TXTsize40{
+    font-size: 40px;
+}
+.TXTsize50{
+    font-size: 50px;
+}
+.TXTsize75{
+    font-size: 75px;
+}
+.TXTsize100{
+    font-size: 100px;
+}
+
+.TXTtimes{
+    font-family: 'Times New Roman';
+}
+.TXTArial{
+    font-family: Arial;
+}
+.TXTCourier{
+    font-family: Courier;
+}
+.TXTSystem{
+    font-family: system-ui;
+}
+.TXTGeorgia{
+    font-family: Georgia;
+}
+.TXTMonospace{
+    font-family: monospace;
+}
+.TXTCalibri{
+    font-family: Calibri;
+}
+
+.TXTlight{
+    font-weight: lighter;
+}
+.TXTbold{
+    font-weight: bold;
+}
+.TXTbolder{
+    font-weight: bolder;
+}

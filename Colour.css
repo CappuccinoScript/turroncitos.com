@@ -1,0 +1,228 @@
+.BlackBG{
+    background: rgb(0, 0, 0);
+}
+.BlackTXT{
+    color: rgb(0, 0, 0);
+}
+.DarkgrayBG{
+    background: rgb(30, 30, 30);
+}
+.DarkgrayTXT{
+    color: rgb(30, 30, 30);
+}
+.GrayBG{
+    background: rgb(60, 60, 60);
+}
+.GrayTXT{
+    color: rgb(60, 60, 60);
+}
+.LightgrayBG{
+    background: rgb(120, 120, 120);
+}
+.LightgrayTXT{
+    color: rgb(120, 120, 120);
+}
+.LightergrayBG{
+    background: rgb(180, 180, 180);
+}
+.LightergrayTXT{
+    color: rgb(180, 180, 180);
+}
+.WhiteshadeBG{
+    background: rgb(220, 220, 220);
+}
+.WhiteshadeTXT{
+    color: rgb(220, 220, 220);
+}
+.WhiteBG{
+    background: rgb(255, 255, 255);
+}
+.WhiteTXT{
+    color: rgb(255, 255, 255);
+}
+.RedBG{
+    background: rgb(255, 0, 0);
+}
+.RedTXT{
+    color: rgb(255, 0, 0);
+}
+.BurgundyBG{
+    background: rgb(160, 0, 40);
+}
+.BurgundyTXT{
+    color: rgb(160, 0, 40);
+}
+.WineBG{
+    background: rgb(120, 0, 80);
+}
+.WineTXT{
+    color: rgb(120, 0, 80);
+}
+.VioletBG{
+    background: rgb(140, 0, 140);
+}
+.VioletTXT{
+    color: rgb(140, 0, 140)
+}
+.MagentaBG{
+    background: rgb(180, 0, 100);
+}
+.MagentaTXT{
+    color: rgb(180, 0, 100);
+}
+.DarkpinkBG{
+    background: rgb(220, 40, 120);
+}
+.DarkpinkTXT{
+    color: rgb(220, 40, 120);
+}
+.PinkBG{
+    background: rgb(255, 50, 120);
+}
+.PinkTXT{
+    color: rgb(255, 50, 120);
+}
+.LightpinkBG{
+    background: rgb(255, 150, 200);
+}
+.lightpinkTXT{
+    color: rgb(255, 150, 200);
+}
+.PeachBG{
+    background: rgb(255, 180, 150);
+}
+.PeachTXT{
+    color: rgb(255, 180, 150);
+}
+.LightorangeBG{
+    background: rgb(255, 165, 85);
+}
+.LightorangeTXT{
+    color: rgb(255, 165, 85);
+}
+.OrangeBG{
+    background: rgb(255, 120, 0);
+}
+.OrangeTXT{
+      color: rgb(255, 120, 0);
+}
+.DarkorangeBG{
+    background: rgb(220, 100, 20);
+}
+.DarkorangeTXT{
+    color: rgb(220, 100, 20);
+}
+.DarkbrownBG{
+    background: rgb(100, 60, 20);
+}
+.DarkbrownTXT{
+    color: rgb(100, 60, 20);
+}
+.BrownBG{
+    background: rgb(140, 80, 40);
+}
+.BrownTXT{
+    color: rgb(140, 80, 40);
+}
+.LightbrownBG{
+    background: rgb(180, 100, 50);
+}
+.LightbrownTXT{
+    color: rgb(180, 100, 50);
+}
+.BeigeBG{
+    background: rgb(200, 150, 80);
+}
+.BeigeTXT{
+    color: rgb(200, 150, 80);
+}
+.GoldBG{
+    background: rgb(250, 150, 0);
+}
+.GoldTXT{
+    color: rgb(250, 150, 0);
+}
+.DarkyellowGB{
+    background: rgb(200, 150, 0);
+}
+.DarkyellowTXT{
+    color: rgb(200, 150, 0)
+}
+.YellowBG{
+    background: rgb(255, 200, 0)
+}
+.YellowTXT{
+    color: rgb(255, 200, 0);
+}
+.LightyellowBG{
+    background: rgb(255, 255, 100);
+}
+.LightyellowTXT{
+    color: rgb(255, 255, 100);
+}
+.LimeBG{
+    background: rgb(220, 255, 100);
+}
+.LimeTXT{
+    color: rgb(220, 255, 100);
+}
+.LightgreenBG{
+    background: rgb(180, 255, 120);
+}
+.LightgreenTXT{
+    color: rgb(180, 255, 120)
+}
+.GreenBG{
+    background: rgb(0, 255, 0);
+}
+.GreenTXT{
+    color: rgb(0, 255, 0);
+}
+.DarkgreenBG{
+    background: rgb(0, 135, 0);
+}
+.DarkgreenTXT{
+    color: rgb(0, 135, 0);
+}
+.DarkturquoiseBG{
+    background: rgb(0, 135, 135);
+}
+.DarkturquoiseTXT{
+    color: rgb(0, 135, 135);
+}
+.TurquoiseBG{
+    background: rgb(0, 220, 220);
+}
+.TurquoiseTXT{
+    color: rgb(0, 220, 220);
+}
+.LightturquoiseBG{
+    background: rgb(150, 255, 255);
+}
+.LightturquoiseTXT{
+    color: rgb(150, 255, 255);
+}
+.MintBG{
+    background: rgb(200, 255, 240);
+}
+.MintTXT{
+    color: rgb(200, 255, 240);
+}
+.LightblueBG{
+    background: rgb(180, 180, 255);
+}
+.LightlueTXT{
+    color: rgb(180, 180, 255);
+}
+.BlueBG{
+    background: rgb(20, 20, 255);
+}
+.BlueTXT{
+    color: rgb(20, 20, 255);
+}
+.DarkblueBG{
+    background: rgb(0, 0, 135);
+}
+.DarkblueTXT{
+    color: rgb(0, 0, 135);
+}
